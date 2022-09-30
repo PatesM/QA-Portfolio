@@ -1,1 +1,1 @@
-Test string
+This folder is intended for storing Mind Maps.
